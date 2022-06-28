@@ -1,0 +1,19 @@
+# Site settings
+name: 拾梦
+location: 广西
+company: 贵港
+position: 一只贪玩的流浪猫
+github: https://github.com/Pickup-OldDream/
+facebook: https://www.picdream.cn/
+phone: 1826095XXXX
+email: 285569656@qq.com
+
+#本项目的baseurl
+# baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
